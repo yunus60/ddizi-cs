@@ -1,0 +1,15 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml:2:1-46
+INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml:2:1-46
+	package
+		ADDED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml:2:11-44
+		INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yunus Konyar\Desktop\kekik-stream\DDizi\src\main\AndroidManifest.xml
